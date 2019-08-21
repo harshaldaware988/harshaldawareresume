@@ -16,6 +16,33 @@
     <p><font size="6"><u>CARRIER OBJECTIVE:</u></font></p>
     <p>To undertake challenging opportunity in Organization where my abilities will enhance a corporate effort and provide me with an opportunity for personal and professional development contributing significantly to the organizational goal.</p>
     <hr size="4 ps">
+        <p><font size="6"><u>QUALIFICATION:</u></font></p>       
+     <table>
+            <tr>
+                <th><p><font size="6">Name</p></th>
+                <th><p><font size="5">Percentage</font></p></th>
+                <th><p><font size="5">Passing Year</font></p></th>
+                <th><p><font size="5">University</font></p></th>
+            </tr>
+            <tr>
+                <td><p><font size="4">10th</font></p></td>
+                <td><p><font size="4">89%</font></p></td>
+                <td><p><font size="4">2015</font></p></td>
+                <td><p><font size="4">Maharashtra Board</font></p></td>
+            </tr>
+            <tr>
+                <td><p><font size="4">12th</font></p></td>
+                <td><p><font size="4">68%</font></p></td>
+                <td><p><font size="4">2017</font></p></td>
+                <td><p><font size="4">Maharashtra Board</font></p></td>
+            </tr>
+            <tr>
+                <td><p><font size="4">1st Year</font></p></td>
+                <td><p><font size="4">68%</font></p></td>
+                <td><p><font size="4">2019</font></p></td>
+                <td><p><font size="4">RTMNU</font></p></td>
+            </tr>
+     </table>
         <hr size="4 ps">
         <p><font size="6"><u>Personal Details:</u></font></p>
         <p><font size="4">Name     :   Harshal Daware</font></p>
@@ -46,33 +73,6 @@
             <p><li><font size="4"><i>Self Motivated</i></font></li></p>
         </ul>
         <hr size="4 ps">
-    <p><font size="6"><u>QUALIFICATION:</u></font></p>       
-     <table>
-            <tr>
-                <th><p><font size="6">Name</p></th>
-                <th><p><font size="5">Percentage</font></p></th>
-                <th><p><font size="5">Passing Year</font></p></th>
-                <th><p><font size="5">University</font></p></th>
-            </tr>
-            <tr>
-                <td><p><font size="4">10th</font></p></td>
-                <td><p><font size="4">89%</font></p></td>
-                <td><p><font size="4">2015</font></p></td>
-                <td><p><font size="4">Maharashtra Board</font></p></td>
-            </tr>
-            <tr>
-                <td><p><font size="4">12th</font></p></td>
-                <td><p><font size="4">68%</font></p></td>
-                <td><p><font size="4">2017</font></p></td>
-                <td><p><font size="4">Maharashtra Board</font></p></td>
-            </tr>
-            <tr>
-                <td><p><font size="4">1st Year</font></p></td>
-                <td><p><font size="4">68%</font></p></td>
-                <td><p><font size="4">2019</font></p></td>
-                <td><p><font size="4">RTMNU</font></p></td>
-            </tr>
-     </table>
         <p><font size="6"><u>DECLARATION:</u></font></p>
         <p>I hereby declare that all the information provided by me in this application is factual and correct to the Best of my knowledge and belief.</p>
         <hr size="10 ps">
