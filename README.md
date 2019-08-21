@@ -17,7 +17,7 @@
     <p>To undertake challenging opportunity in Organization where my abilities will enhance a corporate effort and provide me with an opportunity for personal and professional development contributing significantly to the organizational goal.</p>
     <hr size="4 ps">
     <p><font size="6"><u>QUALIFICATION:</u></font></p>       
-        <table>
+     <table>
             <tr>
                 <th><p><font size="6">Name</p></th>
                 <th><p><font size="5">Percentage</font></p></th>
@@ -42,7 +42,7 @@
                 <td><p><font size="4">2019</font></p></td>
                 <td><p><font size="4">RTMNU</font></p></td>
             </tr>
-        </table>
+     </table>
         <hr size="4 ps">
         <p><font size="6"><u>Personal Details:</u></font></p>
         <p><font size="4">Name     :   Harshal Daware</font></p>
